@@ -20,7 +20,7 @@
     "death": "^1.1.0",
     "elliptic": "^6.5.2",
     "express": "^4.17.1",
-    "inquirer": "^7.0.3",
+    "inquirer": "^7.0.4",
     "kruxcorelib": "git+https://github.com/KruX-Core/KruXCore-lib.git",
     "systeminformation": "^4.19.1",
     "ws": "^7.2.1"
