@@ -22,7 +22,7 @@
     "express": "^4.17.1",
     "inquirer": "^7.0.4",
     "kruxcorelib": "git+https://github.com/KruX-Core/KruXCore-lib.git",
-    "systeminformation": "^4.20.0",
+    "systeminformation": "^4.20.1",
     "ws": "^7.2.1"
   },
   "devDependencies": {
