@@ -23,7 +23,7 @@
     "inquirer": "^7.1.0",
     "kruxcorelib": "git+https://github.com/KruX-Core/KruXCore-lib.git",
     "systeminformation": "^4.26.3",
-    "ws": "^7.2.3"
+    "ws": "^7.3.0"
   },
   "devDependencies": {
     "eslint": "7.0.0"
